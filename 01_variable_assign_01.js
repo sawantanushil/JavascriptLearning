@@ -21,3 +21,4 @@ pin=410206;
 console.log("Pin",pin);
 is_married="Yes";
 console.log("Marital Status",is_married);
+console.log(fName,lName,age,gender,address,pin,is_married);
