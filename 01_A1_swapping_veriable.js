@@ -6,4 +6,4 @@ console.log(myLove);
 var temp=200;
 console.log("Before Updating Value of Temp",temp);
 temp="JavaScript";
-console.log("After Updating Value of Temp",temp);
+console.log("After Updating Value of Temp",temp)
