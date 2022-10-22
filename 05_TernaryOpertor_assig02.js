@@ -22,7 +22,7 @@ console.log(`">>>>>>String is Even or Odd>>>>>"`);
 var evenOrOdd = function (arg1) {
     var result = arg1.length;
     console.log(result);
-    var result1 = result % 2 == 0 ? true : false;
+    var result1 = result % 2 == 0 ? "Even" :"Odd";
     console.log(result1);
 
 
